@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Udemy_Clone/static/css/main.330e889e.css",
+    "main.js": "/Udemy_Clone/static/js/main.dc7093d9.js",
+    "static/media/hero_img.png": "/Udemy_Clone/static/media/hero_img.8395669e0202449c4856.png",
+    "static/media/cat_data_science.png": "/Udemy_Clone/static/media/cat_data_science.4343ab2a901b51933dfd.png",
+    "static/media/cat_marketing.png": "/Udemy_Clone/static/media/cat_marketing.82b40607eb5d70e826f4.png",
+    "static/media/cat_python.png": "/Udemy_Clone/static/media/cat_python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/cat_aws.png": "/Udemy_Clone/static/media/cat_aws.15d6ff76175e4edb5cd4.png",
+    "static/media/cat_design.png": "/Udemy_Clone/static/media/cat_design.f721d6300da36dde4a81.png",
+    "static/media/cat_web_development.png": "/Udemy_Clone/static/media/cat_web_development.f9d169e80e84e333a6d1.png",
+    "static/media/data_science_3.jpg": "/Udemy_Clone/static/media/data_science_3.1bac98024088a70b1566.jpg",
+    "static/media/data_science_2.jpg": "/Udemy_Clone/static/media/data_science_2.f18e85757ac439519dc1.jpg",
+    "static/media/marketing_2.jpg": "/Udemy_Clone/static/media/marketing_2.a1cb6c4ff0a8342fccad.jpg",
+    "static/media/web_dev_4.jpg": "/Udemy_Clone/static/media/web_dev_4.bfa0b0932cfe1b731aea.jpg",
+    "static/media/web_dev_5.jpg": "/Udemy_Clone/static/media/web_dev_5.3213b957fbc815c6cb9f.jpg",
+    "static/media/python_4.jpg": "/Udemy_Clone/static/media/python_4.c87d2a4328c1828ab2f2.jpg",
+    "static/media/aws_1.jpg": "/Udemy_Clone/static/media/aws_1.5aa3a01928d4c648c1e9.jpg",
+    "static/media/web_dev_3.jpg": "/Udemy_Clone/static/media/web_dev_3.95934fdd8b540d859cc4.jpg",
+    "static/media/marketing_1.jpg": "/Udemy_Clone/static/media/marketing_1.5d856438f47223a9b30d.jpg",
+    "static/media/python_5.jpg": "/Udemy_Clone/static/media/python_5.6cb0263b9cb418cdf202.jpg",
+    "static/media/logo_udemy.svg": "/Udemy_Clone/static/media/logo_udemy.83ca61464031c0efceb5394719203673.svg",
+    "index.html": "/Udemy_Clone/index.html",
+    "main.330e889e.css.map": "/Udemy_Clone/static/css/main.330e889e.css.map",
+    "main.dc7093d9.js.map": "/Udemy_Clone/static/js/main.dc7093d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330e889e.css",
+    "static/js/main.dc7093d9.js"
+  ]
+}
